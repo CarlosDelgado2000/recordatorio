@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753234368200",
+    "project_id": "moviles-dbaa5",
+    "storage_bucket": "moviles-dbaa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753234368200:android:ccc5b2faeb13d91d54f7fd",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXM3ORaFWHc2GHUcbLuvultL4TXgca2fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
